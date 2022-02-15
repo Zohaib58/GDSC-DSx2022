@@ -6,7 +6,7 @@ Google Developers Student Club - Data Science Bootcamp 2022
     <br>
 </p>
 
-<p align="center"> Welcome to DSC-Data-Analytics-Workshops<br/>
+<p align="center"> Welcome to GDSC Data Science for Everyone x 2022<br/>
                        Powered by DSC-IBA Karachi
     </p>
 
