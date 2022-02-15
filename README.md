@@ -2,7 +2,7 @@
 Google Developers Student Club - Data Science Bootcamp 2022
 
 <p align="center" width="100%">
-    <img width="80%" src="https://github.com/Zohaib58/GDSC-DSx2022/blob/main/Session1/Screenshots/logo-2.jpeg" id="dsc-logo"> 
+    <img width="80%" src="https://github.com/Zohaib58/GDSC-DSx2022/blob/main/Session1/logo-2.jpeg" id="dsc-logo"> 
     <br>
 </p>
 
